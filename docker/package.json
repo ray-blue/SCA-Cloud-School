@@ -1,0 +1,14 @@
+{
+  "name": "docker-sample",
+  "version": "0.0.1",
+  "description": "Docker project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Suraya Ngobeni",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
